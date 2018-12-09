@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a97a8dcafa70e8b4f983f86b852d9c37
+timeCreated: 1543309821
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HanWangZonYi
+  fontNames:
+  - HanWangZonYi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
